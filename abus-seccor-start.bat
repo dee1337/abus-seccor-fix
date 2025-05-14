@@ -1,6 +1,6 @@
 @echo off
 
-set "JAVA_HOME=C:\Program Files\Java\jre1.8.0_301"
+set "JAVA_HOME=C:\Program Files (x86)\Eclipse Adoptium\jdk-8.0.432.6-hotspot"
 set "SKM_DIR=C:\Program Files (x86)\ABUS\SKM"
 
 rem Setze die Java-Bibliothekspfad (library path)
