@@ -1,5 +1,5 @@
 # abus-seccor-fix
-Bat file to fix Abus Seccor (4.1.1.9, Build 296) starting on Windows 11
+Bat file to fix Abus Seccor Key Manager (4.1.1.9, Build 296) starting on Windows 11
 
 This script is not dynamic and requires you to have the following paths:
 
